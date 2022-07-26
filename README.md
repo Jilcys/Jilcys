@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+I’m currently learning:<br>
+  &nbsp; <i>1- HTML / CSS / JS<br>
+  &nbsp; 2- Python with py4e (done)<br>
+  &nbsp; 3- Using C with CS50 Lessons<br></i>
+Platforms I use:<br>
+  &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
+  &nbsp; freeCodeCamp; https://www.freecodecamp.org/Jilbab<br>
 <!--
 **Jilbao/Jilbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
