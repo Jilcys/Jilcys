@@ -5,7 +5,7 @@ I’m currently learning:<br>
   &nbsp; 3- Using C with CS50 Lessons<br></i>
 Platforms I use:<br>
   &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
-  &nbsp; freeCodeCamp; https://www.freecodecamp.org/Jilbab<br>
+  
 <!--
 **Jilbao/Jilbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
