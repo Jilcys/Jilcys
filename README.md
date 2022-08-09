@@ -4,7 +4,7 @@ I’m currently learning:<br>
   &nbsp; 2- Using C, Python, JS with CS50 Lessons<br>
   &nbsp; 3- Python with py4e (done)<br></i>
 Platforms I use:<br>
-  &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/
+  &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
   &nbsp; Instagram; https://www.instagram.com/cagin.sari<br>
   
 <!--
