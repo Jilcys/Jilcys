@@ -4,7 +4,8 @@ I’m currently learning:<br>
   &nbsp; 2- Using C, Python, JS with CS50 Lessons<br>
   &nbsp; 3- Python with py4e (done)<br></i>
 Platforms I use:<br>
-  &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
+  &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/
+  &nbsp; Instagram; https://www.instagram.com/cagin.sari<br>
   
 <!--
 **Jilbao/Jilbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
