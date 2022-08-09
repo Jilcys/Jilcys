@@ -5,7 +5,7 @@ I’m currently learning:<br>
   &nbsp; 3- Python with py4e (done)<br></i>
 Platforms I use:<br>
   &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
-  &nbsp; Instagram; https://www.instagram.com/cagin.sari<br>
+  
   
 <!--
 **Jilbao/Jilbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
