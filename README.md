@@ -1,8 +1,8 @@
 ### Hi there 👋
 I’m currently learning:<br>
   &nbsp; <i>1- HTML / CSS / JS<br>
-  &nbsp; 2- Python with py4e (done)<br>
-  &nbsp; 3- Using C with CS50 Lessons<br></i>
+  &nbsp; 2- Using C, Python, JS with CS50 Lessons<br>
+  &nbsp; 3- Python with py4e (done)<br></i>
 Platforms I use:<br>
   &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
   
