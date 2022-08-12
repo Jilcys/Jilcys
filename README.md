@@ -2,7 +2,10 @@
 I’m currently learning:<br>
   &nbsp; <i>1- HTML / CSS / JS<br>
   &nbsp; 2- Using C, Python, JS with CS50 Lessons<br>
-  &nbsp; 3- Python with py4e (done)<br></i>
+  &nbsp; 3- Python with py4e (done)<br>
+  &nbsp; 4- nodeJS, expressJS <br>
+  &nbsp; 5- flask <br>
+  &nbsp; 6- sqlite <br></i>
 Platforms I use:<br>
   &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
   
