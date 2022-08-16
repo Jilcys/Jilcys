@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 I’m currently learning:<br>
   &nbsp; <i>1- HTML / CSS / JS<br>
   &nbsp; 2- Using C, Python, JS with CS50 Lessons<br>
@@ -6,6 +7,7 @@ I’m currently learning:<br>
   &nbsp; 4- nodeJS, expressJS <br>
   &nbsp; 5- flask <br>
   &nbsp; 6- sqlite <br></i>
+<hr>
 Platforms I use:<br>
   &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
   
