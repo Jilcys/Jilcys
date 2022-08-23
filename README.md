@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I started this journey in 28 June 2022 and it's been great experience since then.
 <hr>
 I’m currently learning:<br>
   &nbsp; <i>1- HTML / CSS / Bootstrap / JS <br>
