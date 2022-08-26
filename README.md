@@ -4,7 +4,8 @@ I’m currently learning:<br>
   &nbsp; <i>1- HTML / CSS / Bootstrap / JS <br>
   &nbsp; 2- nodeJS, expressJS, EJS <br>
   &nbsp; 3- SQL / MongoDB /Mongoose <br>
-  &nbsp; 4- React.js <br></i>
+  &nbsp; 4- React.js <br>
+  &nbsp; 5- Flask & Jinja <br></i>
 <hr>
 Courses: <br>
 <ul>
