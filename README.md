@@ -16,7 +16,7 @@ Courses: <br>
         href="https://www.edx.org/school/harvardx?g_acctid=724-505-4034&g_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&g_campaignid=15417765031&g_adgroupid=131210224558&g_adid=565368057011&g_keyword=harvardx&g_keywordid=kwd-405720322997&g_network=g&utm_source=google&utm_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&utm_medium=cpc&utm_term=harvardx&hsa_acc=7245054034&hsa_cam=15417765031&hsa_grp=131210224558&hsa_ad=565368057011&hsa_src=g&hsa_tgt=kwd-405720322997&hsa_kw=harvardx&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1RFS9MANpioAf4-iYWqwawyT87zTLEf2XmjzzVbWk2Lj1e1FwXplQaAsYIEALw_wcB">HarvardX</a>
       <ul>
         <li><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">CS50X</a>: CS50's
-          Introduction to Computer Science || <em>Used languages/frameworks: C, SQL, Python, HTML/CSS/JS, Flask, Jinja, </em>
+          Introduction to Computer Science || <em>Used languages/frameworks: C, SQL, Python, HTML/CSS/JS, Flask, Jinja, </em> || <strong>Done</strong>
           <ul>
             <li>My Final Project</li>
           </ul>
@@ -30,7 +30,7 @@ Courses: <br>
       </ul>
     </li>
     <li> <a href="https://www.py4e.com/">Python Course</a> from <a href="https://online.dr-chuck.com/">Dr.Charles
-        Russell Severance</a> || <em>Used languages/frameworks: Python, SQlite </em>
+        Russell Severance</a> || <em>Used languages/frameworks: Python, SQlite </em> || <strong>Done</strong>
     </li>
   </ul>
 <hr>
