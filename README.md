@@ -5,7 +5,8 @@ I’m currently learning:<br>
   &nbsp; 2- nodeJS, expressJS, EJS <br>
   &nbsp; 3- SQL / MongoDB /Mongoose <br>
   &nbsp; 4- React.js <br>
-  &nbsp; 5- Flask & Jinja <br></i>
+  &nbsp; 5- Flask & Jinja <br>
+  &nbsp; 6- Motoko & DFX <br></i>
 <hr>
 Courses: <br>
 <ul>
