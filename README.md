@@ -10,9 +10,6 @@ I’m currently learning:<br>
 <hr>
 Courses: <br>
 <ul>
-    <li> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete Web Development
-        Bootcamp</a> from <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr.Angela Yu</a> || <strong>Current</strong>
-    </li>
     <li> CS50 from <a
         href="https://www.edx.org/school/harvardx?g_acctid=724-505-4034&g_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&g_campaignid=15417765031&g_adgroupid=131210224558&g_adid=565368057011&g_keyword=harvardx&g_keywordid=kwd-405720322997&g_network=g&utm_source=google&utm_campaign=gs-b2c-nonbrand-tier1geo-partner-harvard-core&utm_medium=cpc&utm_term=harvardx&hsa_acc=7245054034&hsa_cam=15417765031&hsa_grp=131210224558&hsa_ad=565368057011&hsa_src=g&hsa_tgt=kwd-405720322997&hsa_kw=harvardx&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwgO2XBhCaARIsANrW2X1RFS9MANpioAf4-iYWqwawyT87zTLEf2XmjzzVbWk2Lj1e1FwXplQaAsYIEALw_wcB">HarvardX</a>
       <ul>
@@ -30,7 +27,12 @@ Courses: <br>
         </li>
       </ul>
     </li>
-    <li> <a href="https://www.py4e.com/">Python Course</a> from <a href="https://online.dr-chuck.com/">Dr.Charles
+    <li> 
+        <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete Web Development
+        Bootcamp</a> from <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr.Angela Yu</a> || <strong>Done</strong>
+    </li>
+    <li>
+        <a href="https://www.py4e.com/">Python Course</a> from <a href="https://online.dr-chuck.com/">Dr.Charles
         Russell Severance</a> || <em>Used languages/frameworks: Python, SQlite </em> || <strong>Done</strong>
     </li>
   </ul>
