@@ -29,7 +29,7 @@ Courses: <br>
     </li>
     <li> 
         <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete Web Development
-        Bootcamp</a> from <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr.Angela Yu</a> || <em>Used languages/frameworks: HTML/CSS/JS, Bootstrap/EJS, NodeJS/ExpressJS, MongoDB, React, Motoko/DFX</em> ||<strong>Done</strong>
+        Bootcamp</a> from <a href="https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/">Dr.Angela Yu</a> || <em>Used languages/frameworks: HTML/CSS/JS, Bootstrap/EJS, NodeJS/ExpressJS, MongoDB, React, Motoko/DFX</em> || <strong>Done</strong>
     </li>
     <li>
         <a href="https://www.py4e.com/">Python Course</a> from <a href="https://online.dr-chuck.com/">Dr.Charles
