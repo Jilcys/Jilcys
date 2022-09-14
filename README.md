@@ -16,7 +16,7 @@ Courses: <br>
         <li><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">CS50X</a>: CS50's
           Introduction to Computer Science || <em>Used languages/frameworks: C, SQL, Python, HTML/CSS/JS, Flask, Jinja, </em> || <strong>Done</strong>
           <ul>
-            <li>My Final Project</li>
+            <li><a href="https://youtu.be/pAbVOd2ZoV0">My Final Project<a></li>
           </ul>
         </li>
         <li><a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript">CS50W</a>: CS50's Web
