@@ -20,7 +20,7 @@ Courses: <br>
           </ul>
         </li>
         <li><a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript">CS50W</a>: CS50's Web
-          Programming with Python and JavaScript
+          Programming with Python and JavaScript <strong>Done</strong>
           <ul>
             <li>My Final Project</li>
           </ul>
