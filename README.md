@@ -2,11 +2,11 @@
 <hr>
 I’m currently learning:<br>
   &nbsp; <i>1- HTML / CSS / Bootstrap / JS <br>
-  &nbsp; 2- nodeJS, expressJS, EJS <br>
+  &nbsp; 2- nodeJS / expressJS / EJS / React <br>
   &nbsp; 3- SQL / MongoDB /Mongoose <br>
-  &nbsp; 4- React.js <br>
-  &nbsp; 5- Flask & Jinja <br>
-  &nbsp; 6- Motoko & DFX <br></i>
+  &nbsp; 4- Django / Flask / Jinja <br>
+  &nbsp; 5- Motoko & DFX <br>
+  </i>
 <hr>
 Courses: <br>
 <ul>
