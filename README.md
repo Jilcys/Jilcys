@@ -1,6 +1,7 @@
 ### Hi there 👋 
 <hr>
-I’m currently using:<br>
+Power Platform & Software Dev<br>
+I’m using:<br>
   &nbsp; <i>1- HTML / CSS / Bootstrap / JS <br>
   &nbsp; 2- nodeJS / expressJS / EJS / React <br>
   &nbsp; 3- SQL / MongoDB /Mongoose <br>
