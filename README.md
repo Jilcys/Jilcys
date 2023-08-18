@@ -1,12 +1,12 @@
 ### Hi there 👋 
 <hr>
-Power Platform & Software Dev<br>
+Software Dev & Power Platform<br>
 I’m using:<br>
   &nbsp; <i>1- HTML / CSS / Bootstrap / JS <br>
   &nbsp; 2- nodeJS / expressJS / EJS / React <br>
   &nbsp; 3- SQL / MongoDB /Mongoose <br>
   &nbsp; 4- Django / Flask / Jinja <br>
-  &nbsp; 5- Motoko & DFX <br>
+  &nbsp; 5- C, C# <br>
   </i>
 <hr>
 Courses: <br>
