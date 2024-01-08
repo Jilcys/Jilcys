@@ -1,4 +1,5 @@
 ### Hi there 👋 
+Currently working on a complete Budget App on .Net(C# WinForms) environment with SQL Server Database which includes OPEX,CAPEX and Revenue. Main app with user system plus an admin panel to register, reset password and status changes. App also natively compatible to groups with multiple companies.
 <hr>
 Software Dev & Power Platform<br>
 I’m using:<br>
