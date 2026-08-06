@@ -1,30 +1,54 @@
-### Hi there 👋 
-Currently working on a complete Budget App on .Net(C# WinForms) environment with SQL Server Database which includes OPEX,CAPEX and Revenue. Main app with user system plus an admin panel to register, reset password and status changes. App also natively compatible to groups with multiple companies. <br>
-<hr>
-Recently released my first Nuget Package for finding bank names and swift code from TR Ibans. <br>
-<a href="https://www.nuget.org/packages/ibantanimahelper">ibantanimahelper</a>
-<hr>
-Software Dev & Power Platform<br>
+# Hi, I'm Çağın 👋
 
-<hr>
+**Software Developer** working at the intersection of **backend services** and **data infrastructure**.
 
+I build C#/.NET APIs and internal services, design data warehouse and reporting pipelines, and spend a good part of my day inside SQL Server — writing queries, tuning them, and keeping databases healthy before they get a chance to misbehave.
 
-<hr>
-Platforms I use:<br>
-  &nbsp; Linkedin; https://www.linkedin.com/in/cagin-yarkin-sari/<br>
-  
-  
-<!--
-**Jilcys/Jilcys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend / APIs** — C#, .NET, REST service design, internal microservices for HR, finance and operations domains
+- **Databases** — SQL Server: T-SQL, query optimization, indexing, execution plan analysis, routine health checks
+- **Data pipelines** — reporting and ETL pipelines for budget, cash flow and stock data; incremental loads and data quality checks
+- **Internal tooling** — form development on the EBA platform, and an in-house ETL tool for CRUD operations over raw data
+
+## Selected work
+
+**[ibantanimahelper](https://github.com/Jilcys/ibantanimahelper)** · C# · MIT
+A small package that resolves a bank name from an IBAN. Simple problem, cleanly solved — useful anywhere you take Turkish bank details as input.
+
+**Budget application suite** _(private)_
+A C# budgeting application and its supporting API, developed and maintained in-house across several iterations.
+
+**Reporting data pipelines** _(private)_
+Pipelines feeding budget, stock-budget and cash-flow reporting from source systems into the warehouse.
+
+**Internal service layer** _(private)_
+A set of C# services covering HR and finance domains, plus an ETL tool built for CRUD operations against raw data.
+
+## On the side
+
+**Chillwin** · GDScript / Godot 4.7 · MIT _(private)_
+A 3v3 arena card battle game, built for desktop and mobile. A long-running personal project and a deliberate change of pace from backend work — different engine, different constraints, different kind of problem.
+
+## Tech
+
+```
+Languages     C# · T-SQL · Python
+Backend       .NET / ASP.NET Core · REST APIs · MVC
+Data          SQL Server · Data warehouse modeling · ETL/ELT · Reporting pipelines
+Tooling       Git · Visual Studio · SSMS  · SSIS 
+```
+
+## How I work
+
+My work is split between delivering API endpoints and ensuring the data behind them is correct, performant, and delivered on schedule. I favour queries that remain readable months later and pipelines that fail loudly rather than silently.
+
+---
+
+## Reach me
+
+- **LinkedIn:** [linkedin.com/in/cagin-yarkin-sari](https://www.linkedin.com/in/cagin-yarkin-sari/)
+- **Email:** cyarkinsari@gmail.com
+
