@@ -29,7 +29,7 @@ A set of C# services covering HR and finance domains, plus an ETL tool built for
 
 ## On the side
 
-**Chillwin** · GDScript / Godot 4.7 · MIT _(private)_
+**Chillwin** · GDScript / Godot 4.7 ·  _(private)_
 A 3v3 arena card battle game, built for desktop and mobile. A long-running personal project and a deliberate change of pace from backend work — different engine, different constraints, different kind of problem.
 
 ## Tech
