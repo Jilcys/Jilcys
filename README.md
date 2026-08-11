@@ -18,18 +18,18 @@ I build C#/.NET APIs and internal services, design data warehouse and reporting 
 **[ibantanimahelper](https://github.com/Jilcys/ibantanimahelper)** · C# · MIT
 A small package that resolves a bank name from an IBAN. Simple problem, cleanly solved — useful anywhere you take Turkish bank details as input.
 
-**Budget application suite** _(private)_
+**Budget application suite** 
 A C# budgeting application and its supporting API, developed and maintained in-house across several iterations.
 
-**Reporting data pipelines** _(private)_
+**Reporting data pipelines** 
 Pipelines feeding budget, stock-budget and cash-flow reporting from source systems into the warehouse.
 
-**Internal service layer** _(private)_
+**Internal service layer** 
 A set of C# services covering HR and finance domains, plus an ETL tool built for CRUD operations against raw data.
 
 ## On the side
 
-**Chillwin** · GDScript / Godot 4.7 ·  _(private)_
+**Chillwin** · GDScript / Godot 4.7 ·  
 A 3v3 arena card battle game, built for desktop and mobile. A long-running personal project and a deliberate change of pace from backend work — different engine, different constraints, different kind of problem.
 
 ## Tech
