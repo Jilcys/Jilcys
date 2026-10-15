@@ -49,6 +49,6 @@ My work is split between delivering API endpoints and ensuring the data behind t
 
 ## Reach me
 
-- **LinkedIn:** https://www.linkedin.com/in/cagin-yarkin-sari?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** https://www.linkedin.com/in/cagin-yarkin-sari/
 - **Email:** cyarkinsari@gmail.com
 
